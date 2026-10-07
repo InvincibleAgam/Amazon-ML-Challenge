@@ -11,13 +11,15 @@ macro F0.5, computed per Source 1 business, so a wrong merge costs more than a m
 
 | | |
 | --- | --- |
+| Final standing | Top 10 of 32,000+ teams (Grand Finale) |
 | Public leaderboard, macro F0.5 | 0.99058 |
 | Out-of-fold macro F0.5 on all 2.21 M training businesses | 0.9915 |
 | Pair precision / pair recall (out-of-fold) | 99.93% / 97.50% |
 | Candidate pairs per Source 1 business | 5.6 (9.73 M pairs), keeping 98.35% of true pairs |
 | Run time | about 4 h on a 10-core laptop, plus 1.5 h on a GPU for the text models |
 
-We were one of the ten teams invited to present to the jury.
+We were selected as one of the Top 10 teams out of 32,000+, and presented this solution at the Grand Finale to a
+panel of senior Amazon scientists on 7 October 2026.
 
 ## The idea
 
