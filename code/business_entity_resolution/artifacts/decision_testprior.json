@@ -1,0 +1,11 @@
+{
+ "method": "threshold",
+ "threshold": 0.75,
+ "margin": 0.1,
+ "sim_macro_f05": 0.9824488366057943,
+ "target_distractor_share": 0.4,
+ "sim_by_country": {
+  "india": 0.979518596975893,
+  "us": 0.9844040254520026
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "method": "threshold",
+ "scores": "stage 3",
+ "veto": true,
+ "threshold": 0.75,
+ "margin": 0.1,
+ "train_prior": 0.9877927916051377,
+ "test_prior": 0.987160631729617,
+ "P": 0.9959697922900199,
+ "R": 0.9685278197624754,
+ "by_country": {
+  "india": 0.9855079747285134,
+  "us": 0.98826335947314
+ }
+}

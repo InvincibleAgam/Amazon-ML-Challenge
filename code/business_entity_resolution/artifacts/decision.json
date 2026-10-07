@@ -1,0 +1,11 @@
+{
+ "method": "expected_f",
+ "shift": 0.0,
+ "oof_macro_f05": 0.9838943045768098,
+ "oof_by_country": {
+  "india": 0.981303148922459,
+  "us": 0.9856232412079504
+ },
+ "oof_singleton_acc": 0.9769730703384261,
+ "oof_nonsingleton_f05": 0.9843037075335458
+}

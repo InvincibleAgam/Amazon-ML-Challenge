@@ -1,0 +1,416 @@
+[
+ {
+  "f05": 0.9838943045768098,
+  "method": "expected_f",
+  "shift": 0.0,
+  "by_country": {
+   "india": 0.981303148922459,
+   "us": 0.9856232412079504
+  }
+ },
+ {
+  "f05": 0.9837537467936444,
+  "method": "threshold",
+  "threshold": 0.65,
+  "margin": 0.2,
+  "by_country": {
+   "india": 0.9810923119077912,
+   "us": 0.985529576917113
+  }
+ },
+ {
+  "f05": 0.9837300466362339,
+  "method": "threshold",
+  "threshold": 0.65,
+  "margin": 0.1,
+  "by_country": {
+   "india": 0.9810654132514022,
+   "us": 0.9855080109433603
+  }
+ },
+ {
+  "f05": 0.983722251173172,
+  "method": "threshold",
+  "threshold": 0.7,
+  "margin": 0.2,
+  "by_country": {
+   "india": 0.9810506788664595,
+   "us": 0.9855048454438367
+  }
+ },
+ {
+  "f05": 0.9837109711403934,
+  "method": "threshold",
+  "threshold": 0.7,
+  "margin": 0.1,
+  "by_country": {
+   "india": 0.9810378210428858,
+   "us": 0.9854946181846718
+  }
+ },
+ {
+  "f05": 0.9836984118102238,
+  "method": "threshold",
+  "threshold": 0.65,
+  "margin": 0.0,
+  "by_country": {
+   "india": 0.981020858591617,
+   "us": 0.9854849968167074
+  }
+ },
+ {
+  "f05": 0.9836950986934943,
+  "method": "threshold",
+  "threshold": 0.7,
+  "margin": 0.0,
+  "by_country": {
+   "india": 0.981011757797047,
+   "us": 0.9854855455012522
+  }
+ },
+ {
+  "f05": 0.983665517353267,
+  "method": "threshold",
+  "threshold": 0.6,
+  "margin": 0.2,
+  "by_country": {
+   "india": 0.981001165946241,
+   "us": 0.9854432935120122
+  }
+ },
+ {
+  "f05": 0.9836202723200811,
+  "method": "threshold",
+  "threshold": 0.6,
+  "margin": 0.1,
+  "by_country": {
+   "india": 0.9809514066738357,
+   "us": 0.9854010605840771
+  }
+ },
+ {
+  "f05": 0.9835651745229996,
+  "method": "threshold",
+  "threshold": 0.6,
+  "margin": 0.0,
+  "by_country": {
+   "india": 0.9808795489708746,
+   "us": 0.9853571457567133
+  }
+ },
+ {
+  "f05": 0.9835576555452675,
+  "method": "expected_f",
+  "shift": 0.5,
+  "by_country": {
+   "india": 0.9808813336330858,
+   "us": 0.9853434189682143
+  }
+ },
+ {
+  "f05": 0.9835509045089943,
+  "method": "threshold",
+  "threshold": 0.75,
+  "margin": 0.2,
+  "by_country": {
+   "india": 0.9808187760930493,
+   "us": 0.985373904563581
+  }
+ },
+ {
+  "f05": 0.9835487378615733,
+  "method": "threshold",
+  "threshold": 0.75,
+  "margin": 0.1,
+  "by_country": {
+   "india": 0.980818177595902,
+   "us": 0.9853706915751395
+  }
+ },
+ {
+  "f05": 0.9835378183636739,
+  "method": "threshold",
+  "threshold": 0.75,
+  "margin": 0.0,
+  "by_country": {
+   "india": 0.980798923896363,
+   "us": 0.9853653330347548
+  }
+ },
+ {
+  "f05": 0.9835251558626343,
+  "method": "expected_f",
+  "shift": -0.5,
+  "by_country": {
+   "india": 0.9807627771586535,
+   "us": 0.985368340282047
+  }
+ },
+ {
+  "f05": 0.9834419142677314,
+  "method": "threshold",
+  "threshold": 0.55,
+  "margin": 0.2,
+  "by_country": {
+   "india": 0.9807119115375027,
+   "us": 0.9852634959683793
+  }
+ },
+ {
+  "f05": 0.9833350336616465,
+  "method": "threshold",
+  "threshold": 0.55,
+  "margin": 0.1,
+  "by_country": {
+   "india": 0.9806066260132604,
+   "us": 0.9851555510513033
+  }
+ },
+ {
+  "f05": 0.9832235407541113,
+  "method": "threshold",
+  "threshold": 0.55,
+  "margin": 0.0,
+  "by_country": {
+   "india": 0.9804706240760923,
+   "us": 0.985060411680494
+  }
+ },
+ {
+  "f05": 0.9831485017095091,
+  "method": "threshold",
+  "threshold": 0.8,
+  "margin": 0.2,
+  "by_country": {
+   "india": 0.9802695131970938,
+   "us": 0.9850694934845122
+  }
+ },
+ {
+  "f05": 0.9831479014500767,
+  "method": "threshold",
+  "threshold": 0.8,
+  "margin": 0.1,
+  "by_country": {
+   "india": 0.9802691425250986,
+   "us": 0.9850687400338985
+  }
+ },
+ {
+  "f05": 0.9831407653613918,
+  "method": "threshold",
+  "threshold": 0.8,
+  "margin": 0.0,
+  "by_country": {
+   "india": 0.9802545107530536,
+   "us": 0.9850666054053082
+  }
+ },
+ {
+  "f05": 0.9830922385887712,
+  "method": "threshold",
+  "threshold": 0.5,
+  "margin": 0.2,
+  "by_country": {
+   "india": 0.9802553995421639,
+   "us": 0.9849851063276174
+  }
+ },
+ {
+  "f05": 0.9828940081834155,
+  "method": "threshold",
+  "threshold": 0.5,
+  "margin": 0.1,
+  "by_country": {
+   "india": 0.9800737602950829,
+   "us": 0.9847758055486096
+  }
+ },
+ {
+  "f05": 0.9826801015413191,
+  "method": "threshold",
+  "threshold": 0.5,
+  "margin": 0.0,
+  "by_country": {
+   "india": 0.9798480202069196,
+   "us": 0.984569794718698
+  }
+ },
+ {
+  "f05": 0.982581863734545,
+  "method": "threshold",
+  "threshold": 0.45,
+  "margin": 0.2,
+  "by_country": {
+   "india": 0.9795959180083532,
+   "us": 0.9845742222160196
+  }
+ },
+ {
+  "f05": 0.9825162437285115,
+  "method": "expected_f",
+  "shift": -1.0,
+  "by_country": {
+   "india": 0.9794324909274895,
+   "us": 0.9845738635284218
+  }
+ },
+ {
+  "f05": 0.9823972187923381,
+  "method": "threshold",
+  "threshold": 0.85,
+  "margin": 0.2,
+  "by_country": {
+   "india": 0.9792775157212433,
+   "us": 0.984478826243769
+  }
+ },
+ {
+  "f05": 0.982397021632948,
+  "method": "threshold",
+  "threshold": 0.85,
+  "margin": 0.1,
+  "by_country": {
+   "india": 0.9792752846120478,
+   "us": 0.9844799862279833
+  }
+ },
+ {
+  "f05": 0.9823928675225484,
+  "method": "threshold",
+  "threshold": 0.85,
+  "margin": 0.0,
+  "by_country": {
+   "india": 0.9792677322609155,
+   "us": 0.984478099578003
+  }
+ },
+ {
+  "f05": 0.9823301157926065,
+  "method": "expected_f",
+  "shift": 1.0,
+  "by_country": {
+   "india": 0.9792948865790869,
+   "us": 0.9843553584531571
+  }
+ },
+ {
+  "f05": 0.9822551871188221,
+  "method": "threshold",
+  "threshold": 0.45,
+  "margin": 0.1,
+  "by_country": {
+   "india": 0.9793116942399445,
+   "us": 0.9842192191341951
+  }
+ },
+ {
+  "f05": 0.982000591748807,
+  "method": "threshold",
+  "threshold": 0.4,
+  "margin": 0.2,
+  "by_country": {
+   "india": 0.978761578395006,
+   "us": 0.9841618084348607
+  }
+ },
+ {
+  "f05": 0.9818503565746124,
+  "method": "threshold",
+  "threshold": 0.45,
+  "margin": 0.0,
+  "by_country": {
+   "india": 0.9789054062227979,
+   "us": 0.9838153610820708
+  }
+ },
+ {
+  "f05": 0.9815333261485547,
+  "method": "threshold",
+  "threshold": 0.4,
+  "margin": 0.1,
+  "by_country": {
+   "india": 0.9783712268048566,
+   "us": 0.983643222316915
+  }
+ },
+ {
+  "f05": 0.9812686340549107,
+  "method": "threshold",
+  "threshold": 0.35,
+  "margin": 0.2,
+  "by_country": {
+   "india": 0.9777421632871348,
+   "us": 0.9836216553715098
+  }
+ },
+ {
+  "f05": 0.9809241466634046,
+  "method": "threshold",
+  "threshold": 0.4,
+  "margin": 0.0,
+  "by_country": {
+   "india": 0.9777931404608444,
+   "us": 0.9830132960771344
+  }
+ },
+ {
+  "f05": 0.9808759798148852,
+  "method": "expected_f",
+  "shift": -1.5,
+  "by_country": {
+   "india": 0.9772864891219106,
+   "us": 0.9832710508851186
+  }
+ },
+ {
+  "f05": 0.9806456640649002,
+  "method": "threshold",
+  "threshold": 0.35,
+  "margin": 0.1,
+  "by_country": {
+   "india": 0.9772411883024164,
+   "us": 0.9829172847782187
+  }
+ },
+ {
+  "f05": 0.9803396675306157,
+  "method": "threshold",
+  "threshold": 0.3,
+  "margin": 0.2,
+  "by_country": {
+   "india": 0.976448840213254,
+   "us": 0.9829358040704869
+  }
+ },
+ {
+  "f05": 0.9797998559600498,
+  "method": "threshold",
+  "threshold": 0.35,
+  "margin": 0.0,
+  "by_country": {
+   "india": 0.9764693994902793,
+   "us": 0.9820220876425132
+  }
+ },
+ {
+  "f05": 0.9795365926395619,
+  "method": "threshold",
+  "threshold": 0.3,
+  "margin": 0.1,
+  "by_country": {
+   "india": 0.9758110723773539,
+   "us": 0.9820224288111197
+  }
+ },
+ {
+  "f05": 0.9783461278156816,
+  "method": "threshold",
+  "threshold": 0.3,
+  "margin": 0.0,
+  "by_country": {
+   "india": 0.9747639512548507,
+   "us": 0.9807363185651978
+  }
+ }
+]
