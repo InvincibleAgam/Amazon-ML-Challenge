@@ -1,0 +1,18 @@
+numpy==2.5.3
+pandas==3.0.6
+polars==1.44.2
+pyarrow==25.0.1
+scipy==1.18.1
+scikit-learn==1.9.1
+lightgbm==4.7.0
+rapidfuzz==3.14.6
+unidecode==1.4.0
+jellyfish==1.2.1
+sparse-dot-topn==1.2.0
+joblib==1.6.0
+psutil==7.2.2
+# text models (step `text`, CUDA GPU; the GPU machine used torch 2.14.0+cu130)
+torch==2.14.0
+transformers==5.17.0
+sentencepiece==0.2.2
+protobuf==7.36.2
